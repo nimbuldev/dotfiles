@@ -1,0 +1,14 @@
+euberzug
+sxhkd
+rofi
+ranger
+pulseaudio
+polybar
+picom-ibhagwan-git
+mpv
+lightdm
+lightdm-gtk-greeter
+kitty
+feh
+cava
+unarchiver
