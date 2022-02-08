@@ -26,7 +26,7 @@ if [ "$(bspc query -M | wc -l)" -eq "3" ]; then
 bspc config border_width         0
 bspc config window_gap           16
 
-bspc config split_ratio          0.52
+bspc config split_ratio          0.50
 bspc config borderless_monocle   true
 bspc config gapless_monocle      false
 # bspc config focus_follows_pointer true
