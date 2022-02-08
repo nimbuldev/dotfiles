@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 alacritty 0.10.0-2
 antibody 6.1.1-1
 autoconf 2.71-1
@@ -138,3 +139,20 @@ xorg-xwud 1.0.5-2
 yay 11.1.1-1
 zscroll-git 1.0.r34.g7b769b1-1
 zsh 5.8-1
+=======
+euberzug
+sxhkd
+rofi
+ranger
+pulseaudio
+polybar
+picom-ibhagwan-git
+mpv
+lightdm
+lightdm-gtk-greeter
+kitty
+feh
+cava
+unarchiver
+zsh
+>>>>>>> 34faf456fbdf550c961b4867d275201950f8191f
