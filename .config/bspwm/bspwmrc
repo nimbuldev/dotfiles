@@ -3,7 +3,7 @@
 # Fix for autorandr profile switching at boot
 #autorandr -c $(autorandr | grep "(detected)" | sed "s/ (detected)//")
 
-picom --experimental-backends & # Compositor
+picom & # Compositor
 ~/.config/polybar/launch.sh & # Status bar
 #xsetroot -cursor_name left_ptr & # X cursor fix
 dunst & # Notifications
@@ -24,7 +24,7 @@ if [ "$(bspc query -M | wc -l)" -eq "3" ]; then
         fi
  
 bspc config border_width         0
-bspc config window_gap           16
+bspc config window_gap           12
 
 bspc config split_ratio          0.50
 bspc config borderless_monocle   true
